@@ -1,0 +1,24 @@
+.blog-main{
+    font-size: 1.2rem;
+}
+
+h1.blog-header{
+    font-size: 5rem;
+    line-height: 4.5rem;
+}
+
+div.blog-credentials{
+    width: 200px;
+
+}
+
+.blog-author{
+    font-size: 1rem;
+    line-height: 0.7rem;
+
+}
+
+.blog-date{
+    font-size: 0.8rem;
+    line-height: 0.5rem;
+}
